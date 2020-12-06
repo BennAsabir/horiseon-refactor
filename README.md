@@ -11,11 +11,10 @@ This is training project refactoring code to be optimized for accessibilty stand
 eg. adding alt attribute to imgs.
 
 Existing Codebase
-
+<img src="./assets/images/screenshot1.png">
 
 Refactored codebase
-
-
+<img src="./assets/images/screenshot2.png">
 
 ## Technologies
 Project is created with 
